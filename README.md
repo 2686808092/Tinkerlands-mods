@@ -1,5 +1,7 @@
 # Tinkerlands Mods
 
+**简体中文** · [English](README.en.md)
+
 这里汇总我制作的 Tinkerlands 模组。每个条目提供项目说明或安装包下载。
 
 | 模组 | 功能 | 下载 |
