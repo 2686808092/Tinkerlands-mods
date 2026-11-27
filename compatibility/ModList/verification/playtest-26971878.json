@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-27",
+  "steam_build_id": "26971878",
+  "game_build_version": "v46353.45",
+  "map_version": "1.1.2",
+  "modlist_version": "1.4.1",
+  "language_assertions_passed": 85,
+  "saved_world_assertions_passed": 19,
+  "independent_process_assertions_passed": 2,
+  "fog_snapshots": [
+    {
+      "size": 1440000.0,
+      "label": "enter saved world",
+      "file": "fog-0.bin",
+      "pixels": 360000,
+      "transparent": true
+    },
+    {
+      "size": 1440000.0,
+      "label": "enter caves",
+      "file": "fog-1.bin",
+      "pixels": 360000,
+      "transparent": true
+    },
+    {
+      "size": 1440000.0,
+      "label": "return to surface",
+      "file": "fog-2.bin",
+      "pixels": 360000,
+      "transparent": true
+    },
+    {
+      "size": 1440000.0,
+      "label": "recreate GPU surfaces",
+      "file": "fog-3.bin",
+      "pixels": 360000,
+      "transparent": true
+    },
+    {
+      "size": 1440000.0,
+      "label": "retry after minimap becomes ready",
+      "file": "fog-4.bin",
+      "pixels": 360000,
+      "transparent": true
+    },
+    {
+      "size": 1440000.0,
+      "label": "saved exploration before mod reapplies after reload",
+      "file": "fog-5.bin",
+      "pixels": 360000,
+      "transparent": true
+    },
+    {
+      "size": 1440000.0,
+      "label": "reload world with the same region number",
+      "file": "fog-6.bin",
+      "pixels": 360000,
+      "transparent": true
+    },
+    {
+      "size": 1440000.0,
+      "label": "saved fog from disk before mod reapplies in new process",
+      "file": "fog-0.bin",
+      "pixels": 360000,
+      "transparent": true
+    }
+  ],
+  "checked_fog_pixels": 2880000,
+  "failures": [],
+  "original_world_player_game_and_installed_mods_unchanged": true,
+  "installed_mods": [
+    "FishermanTable_1.0.0.zip",
+    "FiveGiftAmity_1.0.0.zip",
+    "Just_Enough_Items_1.7.3.zip",
+    "Map_Auto_Explore_1.1.2.zip",
+    "Modlist_v1.4.1.zip",
+    "NightVision_1.0.1.zip",
+    "TargetReforge_1.0.1.zip"
+  ],
+  "package_sha256": {
+    "Map_Auto_Explore_1.1.2.zip": "32cd13e96d341276c7147c5dc32438356b84f13242b9c3134acd36e29e95e8ad",
+    "Modlist_v1.4.1.zip": "b4b512c5ae60e992bd3fe70523786627e635d3b2863e3768a2d246808e0c5052"
+  },
+  "scope": "Copies of an existing world and character; surface, caves, return, surface recreation, readiness retry, native save, menu reload and independent-process disk reload before mod reveal. Only installed mods were loaded. Storage was not loaded."
+}
