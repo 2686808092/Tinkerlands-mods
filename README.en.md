@@ -1,6 +1,6 @@
 # Tinkerlands Mods
 
-This repository lists the mods I make for Tinkerlands. Each entry links to the project page or an installation download.
+This repository contains only the Tinkerlands mod overview and distribution links. Source code, updates and packages are maintained in each mod's independent repository.
 
 [简体中文](README.md) · **English**
 
@@ -12,7 +12,7 @@ This repository lists the mods I make for Tinkerlands. Each entry links to the p
 | [Five Gift Amity](https://github.com/2686808092/TinkerlandsFiveGiftAmity/blob/main/README.en.md) | Reach maximum NPC friendship after five gifts from zero amity, regardless of gift preference. | [Releases and downloads](https://github.com/2686808092/TinkerlandsFiveGiftAmity/releases/latest) |
 | [Map Auto Explore](https://github.com/2686808092/TinkerlandsMapAutoExplore/blob/main/README.en.md) | Automatically reveal the map for each region you enter and save its explored state. | [Releases and downloads](https://github.com/2686808092/TinkerlandsMapAutoExplore/releases/latest) |
 | [Night Vision](https://github.com/2686808092/TinkerlandsNightVision/blob/main/README.en.md) | Improve visibility at night and in caves with a persistent toggle next to the minimap. | [Releases and downloads](https://github.com/2686808092/TinkerlandsNightVision/releases/latest) |
-| [ModList compatibility patch (original author: obfy)](compatibility/ModList) | Fix Playtest font errors while retaining the original mod manager. | [Download 1.4.1](https://github.com/2686808092/Tinkerlands-mods/releases/tag/modlist-v1.4.1) |
+| [ModList compatibility patch (original author: obfy)](https://github.com/2686808092/TinkerlandsModList) | Fix Playtest font errors while retaining the original mod manager. | [Download 1.4.1](https://github.com/2686808092/TinkerlandsModList/releases/latest) |
 
 Place the ZIP file as-is in the `mods` folder of your Tinkerlands installation and restart the game. When updating a mod, remove its previous ZIP first.
 
